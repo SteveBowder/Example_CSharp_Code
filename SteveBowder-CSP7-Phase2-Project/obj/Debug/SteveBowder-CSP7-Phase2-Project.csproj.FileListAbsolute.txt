@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\bin\Debug\SteveBowder-CSP7-Phase2-Project.exe.config
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\bin\Debug\SteveBowder-CSP7-Phase2-Project.exe
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\bin\Debug\SteveBowder-CSP7-Phase2-Project.pdb
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder-CSP7-Phase2-Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder_CSP7_Phase2_Project.ItemForm.resources
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder_CSP7_Phase2_Project.MainForm.resources
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder_CSP7_Phase2_Project.Properties.Resources.resources
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder-CSP7-Phase2-Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder-CSP7-Phase2-Project.exe
+C:\Users\User\Desktop\School\C#\CSP7\Phase 2\SteveBowder-CSP7-Phase2-Solution\SteveBowder-CSP7-Phase2-Project\obj\Debug\SteveBowder-CSP7-Phase2-Project.pdb
